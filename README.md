@@ -93,5 +93,10 @@ s.close()
 ```
 ## OUTPUT
 
+
+
+
+
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
