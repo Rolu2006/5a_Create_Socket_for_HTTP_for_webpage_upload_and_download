@@ -94,10 +94,12 @@ s.close()
 ## OUTPUT
 
 
+<img width="1919" height="1138" alt="Screenshot 2026-03-14 100601" src="https://github.com/user-attachments/assets/4dda37e1-ad84-4c17-85c9-edce81d5ab9a" />
 
 
 
 
+<img width="1919" height="1142" alt="Screenshot 2026-03-14 100744" src="https://github.com/user-attachments/assets/4608c78f-22e7-4b4b-b2de-5a97cbcbfb79" />
 
 
 
