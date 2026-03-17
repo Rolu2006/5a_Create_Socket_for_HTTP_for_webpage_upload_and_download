@@ -92,6 +92,14 @@ s.close()
 </html>
 ```
 ## OUTPUT
+<img width="1919" height="1138" alt="Screenshot 2026-03-14 100601" src="https://github.com/user-attachments/assets/287931f2-8c98-41af-ad55-f2a97706a014" />
+
+
+
+
+
+<img width="1919" height="1142" alt="Screenshot 2026-03-14 100744" src="https://github.com/user-attachments/assets/4d31c06b-6a05-4678-a659-c9164734407e" />
+
 
 
 
